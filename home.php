@@ -8,8 +8,8 @@
     <title>Document</title>
 </head>
 <body>
-<?php include './header.php' ?>
-<?php include './nav.php' ?>
+<jsp:include page="header.html" /><br>
+
 
 <div class="container mt-3">
       <div><img src="./img/pro1.png" alt="Los Angeles"style="width:100%" class="mx-auto d-block">
@@ -23,6 +23,6 @@
 
 </div>
 </div> <br>
-<?php include './footer.php' ?>
+<jsp:include page="header.html" /><br>
 </body>
 </html>
