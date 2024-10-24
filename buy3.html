@@ -30,6 +30,6 @@
    
 
 
-<?php include 'footer.php' ?>
+<jsp:include page="header.html" /><br>
 </body>
 </html>
