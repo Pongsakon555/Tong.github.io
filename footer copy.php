@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/bootstrap.min.css">
+    <script src="./js/bootstrap.bundle.min.js"></script>
+    <title>Document</title>
+</head>
+<body>
+
+<div class="container">
+  <footer class="d-flex flex-wrap justify-content-between align-items-center py-3 my-4 border-top">
+    <p class="col-md-4 mb-0 text-body-secondary">&copy; 2024 copyright</p>
+    <p class="text-body-secondary"> 363/179 ถ.พุทธบูชา แขวงบางมด เขตทุ่งครุ กรุงเทพมหานคร 10140</p>
+
+    <a href="/" class="col-md-4 d-flex align-items-center justify-content-center mb-3 mb-md-0 me-md-auto link-body-emphasis text-decoration-none">
+      <svg class="bi me-2" width="40" height="32"><use xlink:href="#bootstrap"/></svg>
+    </a>
+
+    <ul class="nav col-md-4 justify-content-end">
+      <li class="nav-item"><a href="./index.php" class="nav-link px-2 text-body-secondary">Home</a></li>
+      <li class="nav-item"><a href="https://www.facebook.com/profile.php?id=100069461442506&locale=th_TH" class="nav-link px-2 text-body-secondary">Facebook</a></li>
+      <li class="nav-item"><a href="https://www.instagram.com/ig_pong05/" class="nav-link px-2 text-body-secondary">Instagram</a></li>
+      <li class="nav-item"><a href="https://x.com/Mxndy_Kxzu" class="nav-link px-2 text-body-secondary">Twitter</a></li>
+    </ul>
+  </footer>
+</div>
+
+</body>
+</html>

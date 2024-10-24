@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+
+<?php include './header.php' ?>
+<?php include './nav.php' ?><br>
+<div style="width: 30%;" class="mx-auto d-block">
+    <img class="card-img-top" src="./img/YZF-R3.png" > 
+    <div class="card-body" ><br>
+        <h3 class="card-title text-center">YZF-R3</h3><br>
+        <h5>ความจุน้ำมันเชื้อเพลิง</h5>
+        <p class="card-text">
+            14 ลิตร
+ </p>
+
+
+<h5>ความสูงจากพื้นถึงเบาะ</h5>
+<p>780 มม.
+</p>
+
+<h5>ปริมาตรกระบอกสูบ</h5>
+        <p>
+321 ซีซี</p>
+       <h5>ข้อมูลเบื้องต้น</h5>
+<p>
+Yamaha YZF-R3 รถมอเตอร์ไซค์สปอร์ต ใหม่! 2024 สปอร์ตแท้สายพันธุ์ R-Series ขุมพลังเครื่องยนต์ 321 cc เต็มอารมณ์สปอร์ตอีกขั้น กับดีเอ็นเอสายพันธุ์แชมป์ ด้วยรูปลักษณ์ใหม่ สะท้อนความเป็นซูเปอร์สปอร์ตในทุกองศา ทุกเส้นทาง ทุกช่วงเวลาที่ต้องการ
+
+</p>
+    
+<div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
+      <a href="./buy2.php"class="btn btn-success me-2 text-center">สั่งซื้อสินค้า</a>
+      <a href="./index.php"class="btn btn-outline-success me-2 text-center">กลับสู่หน้าสินค้า</a>
+      </div>
+
+</div>
+   </div> <br>
